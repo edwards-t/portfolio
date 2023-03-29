@@ -1,0 +1,21 @@
+body {
+  background-color: grey;
+  text-align: center;
+  font-family: Arial, Helvetica, sans-serif;
+}
+
+#link {
+  font-style: italic;
+  color: green;
+}
+
+#timpic {
+  height: 320px;
+  width: auto;
+}
+
+#timvid {
+  height: 320px;
+  width: 50%;
+  float: right;
+}
